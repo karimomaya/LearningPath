@@ -1,0 +1,9 @@
+parent-app.iml
+client-side/node_modules/*
+*.log
+server-side/server-side.iml
+server-side/target
+server-side/web-app.iml
+.idea/*
+server-side/.idea/*
+
