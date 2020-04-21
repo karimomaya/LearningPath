@@ -1,5 +1,5 @@
 parent-app.iml
-client-side/node_modules/*
+client-side/node_modules
 *.log
 server-side/server-side.iml
 server-side/target
